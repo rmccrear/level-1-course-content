@@ -2,6 +2,19 @@
 
 The main goal of this assignment is to familiarize students with the basics of setting up and structuring an HTML document.
 
+## Overview
+
+Make a well structured HTML file.
+
+It should include a body, h1, h2, p tags, and blockquote
+
+It should also include a title. (Note: this is required for HTML validators.)
+
+## New Concepts
+
+* Well formed html files
+* Typographic tags: h1, h2, p, blockquote
+
 ## Steps:
 
 1. **Setup Environment**
@@ -40,6 +53,24 @@ The main goal of this assignment is to familiarize students with the basics of s
 
 The goal of this assignment is to further reinforce the understanding of HTML elements and attributes by creating a personal webpage layout with navigation.
 
+It introduces linking between pages
+
+## Overview
+
+Create two well formed HTML files and link them.
+
+## New Concepts
+
+* Linking with anchor tags
+* Semantic tags like header, nav, main, footer
+* HTML attributes like id class and style
+* headers for each page
+
+## Reviewed concepts
+
+* Well formed HTML boilerplate
+* Typographic tags: h1
+
 ## Instructions:
 
 1. **Setup Environment**
@@ -71,6 +102,21 @@ The goal of this assignment is to further reinforce the understanding of HTML el
 # Week 1: Day 3 – Lists, Tables, and Advanced HTML Structures
 
 The goal of this assignment is to reinforce new HTML elements in regards to creating a table and inputting information along with the ability to create lists.
+
+## Overview
+
+Make a website with three pages: index. lists, and table
+
+## New Concepts
+
+* html tags with structure
+* lists
+* tables
+
+## Reviewed Concepts
+
+* navigation header
+* typographic html tags like h1
 
 ## Instructions
 
@@ -106,6 +152,25 @@ The goal of this assignment is to reinforce new HTML elements in regards to crea
 
 The goal of this assignment is to reinforce understanding of advanced HTML structures and attributes.
 
+## Overview
+
+Experiment with what you have learned by making a page based on your interests.
+
+Make a website with two pages: index and advanced.
+
+In advanced use these tags `<article>`, `<section>`, `<aside>`, and `<main>` to make a website about any topic you like.
+
+Think about how these tags may affect SEO
+
+## New Concepts
+
+* more sematic HTML tags
+* SEO
+
+## Reviewed Concepts
+
+* anything you have learned so far
+
 ## Instructions
 
 1. **Setup Environment**
@@ -137,6 +202,20 @@ The goal of this assignment is to reinforce understanding of advanced HTML struc
 # Homework for Week 1: Day 5 - Finalizing HTML Badge and Introduction to Forms
 
 The goal of this assignment is to reinforce **ALL** of the HTML elements and structures you have learned this week. You will be tasked with creating new HTML page(s) that will showcase all of your learning this week! Repetition is key to learning, so this will be a great way to practice and solidify your understanding of HTML.
+
+## Overview
+
+Create a multi page website based on serveral topics that interest you. (e.g. movies, books, etc)
+
+Use all the skills we have learned so far.
+
+## New Concepts
+
+* creativity in using new found skills
+
+## Reviewed Concepts
+
+* any/all
 
 ## Instructions
 
